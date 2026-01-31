@@ -1,0 +1,42 @@
+# =========================
+# Python cache & env
+# =========================
+__pycache__/
+*.pyc
+venv/
+
+# =========================
+# Datasets / videos
+# =========================
+dataset/
+data/
+raw_videos/
+real/
+fake/
+*.mp4
+*.avi
+*.mov
+
+# =========================
+# Training & experiment scripts
+# =========================
+train.py
+deepfake_train.py
+deepfake_test.py
+test.py
+evaluate.py
+generate_video_hash.py
+generate_watermarked_demo.py
+
+# =========================
+# Old / unused models
+# =========================
+encoder.pth
+decoder.pth
+deepfake_detector.pth
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db

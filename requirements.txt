@@ -1,6 +1,7 @@
 streamlit
 torch
 torchvision
-opencv-python-headless
+imageio
+imageio-ffmpeg
 numpy
 Pillow

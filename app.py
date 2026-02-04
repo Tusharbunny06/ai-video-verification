@@ -8,6 +8,7 @@ from utils import load_video
 from deepfake.detector import DeepfakeDetector
 from watermark_registry import WATERMARK_REGISTRY
 from genai_generator import generate_ai_video
+from prompt_to_video import generate_video_from_prompt
 
 # --------------------
 # PAGE CONFIG

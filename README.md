@@ -53,7 +53,6 @@ Verification System
 ## 🧪 How to Run
 
 ### 1️⃣ Create & activate virtual environment
-```bash
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 2️⃣Install dependencies

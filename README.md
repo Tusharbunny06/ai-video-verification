@@ -55,10 +55,11 @@ Verification System
 ### 1️⃣ Create & activate virtual environment
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
-Dataset URL : https://www.kaggle.com/datasets/sanikatiwarekar/deep-fake-detection-dfd-entire-original-dataset
 
 2️⃣Install dependencies
 pip install -r requirements.txt
 
  3️⃣Run the application
 streamlit run app.py
+
+Dataset URL : https://www.kaggle.com/datasets/sanikatiwarekar/deep-fake-detection-dfd-entire-original-dataset
